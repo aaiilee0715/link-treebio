@@ -20,7 +20,7 @@ function App() {
         <div className="row">
           <div className="col-12 header p-2">
             <img classname="ml-2 img-fluid" src={FeatherPix} />
-            <strong className="ml-3">Designs with you in mind, one pixel at a time...</strong>
+            <strong className="ml-3">Design with you in mind, one pixel at a time...</strong>
           </div>
         </div>
       </div>
@@ -104,21 +104,21 @@ function App() {
             alt="adobe xd"
             class="icon-list-img"
           />
-          <img
+          {/* <img
             src={CanvaPix}
             alt="canva logo"
             class="icon-list-img"
-          />
+          /> */}
           <img
             src={FigmaPix}
             alt="figma logo"
             class="icon-list-img"
           />
-             <img
+             {/* <img
             src={JavascriptLogo}
             alt="javascript logo"
             class="icon-list-img"
-          />
+          /> */}
           <img
             src={ReactLogo}
             alt="react logo"
