@@ -6,6 +6,7 @@ import AdobeXd from './images/adobe-xd.png';
 import FeatherPix from './images/feather2-removebg-preview.png';
 import CanvaPix from './images/canva.png';
 import FigmaPix from './images/figmaLogo.png';
+import CodestackPix from './images/codestack.jpg';
 
 
 
@@ -50,7 +51,13 @@ function App() {
           </a>
           {/* resources section */}
           <h3 className="title">My Resources</h3>
-          <div className="link-list-item bright">
+          <a
+            href="https://codestackacademy.org/home">
+            <div className="link-list-item bright">
+              <img src={CodestackPix} width="20" height="20" align="absmiddle" />   CodeStack Academy
+          </div>
+          </a>
+        <div className="link-list-item bright">
             COMING SOON
         </div>
           {/* support section */}
