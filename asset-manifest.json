@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aaiilee0715/link-treebio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/aaiilee0715/link-treebio/static/js/main.984cf1e1.chunk.js",
+    "main.js.map": "/aaiilee0715/link-treebio/static/js/main.984cf1e1.chunk.js.map",
+    "runtime-main.js": "/aaiilee0715/link-treebio/static/js/runtime-main.ca184a03.js",
+    "runtime-main.js.map": "/aaiilee0715/link-treebio/static/js/runtime-main.ca184a03.js.map",
+    "static/js/2.7d107174.chunk.js": "/aaiilee0715/link-treebio/static/js/2.7d107174.chunk.js",
+    "static/js/2.7d107174.chunk.js.map": "/aaiilee0715/link-treebio/static/js/2.7d107174.chunk.js.map",
+    "static/js/3.34d2f4ec.chunk.js": "/aaiilee0715/link-treebio/static/js/3.34d2f4ec.chunk.js",
+    "static/js/3.34d2f4ec.chunk.js.map": "/aaiilee0715/link-treebio/static/js/3.34d2f4ec.chunk.js.map",
+    "index.html": "/aaiilee0715/link-treebio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/aaiilee0715/link-treebio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.7d107174.chunk.js.LICENSE.txt": "/aaiilee0715/link-treebio/static/js/2.7d107174.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/aaiilee0715/link-treebio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca184a03.js",
+    "static/js/2.7d107174.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.984cf1e1.chunk.js"
+  ]
+}
