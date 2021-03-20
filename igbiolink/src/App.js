@@ -7,7 +7,9 @@ import FeatherPix from './images/feather2-removebg-preview.png';
 import CanvaPix from './images/canva.png';
 import FigmaPix from './images/figmaLogo.png';
 import CodestackPix from './images/codestack.jpg';
-
+import ReactLogo from './images/react.png';
+import AngularLogo from './images/angularjs.png';
+import JavascriptLogo from './images/javascript.png';
 
 
 function App() {
@@ -110,6 +112,21 @@ function App() {
           <img
             src={FigmaPix}
             alt="figma logo"
+            class="icon-list-img"
+          />
+             <img
+            src={JavascriptLogo}
+            alt="javascript logo"
+            class="icon-list-img"
+          />
+          <img
+            src={ReactLogo}
+            alt="react logo"
+            class="icon-list-img"
+          />
+           <img
+            src={AngularLogo}
+            alt="angular logo"
             class="icon-list-img"
           />
         </div>
