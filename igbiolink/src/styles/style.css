@@ -1,0 +1,138 @@
+/* color palette from https://www.color-hex.com/color-palettes */
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Homemade+Apple&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&display=swap');
+:root {
+  --darkest-color: #3b85c2;
+  --lightest-color: #896e903b;
+  --highlight-color: #7cbdf170;
+  --bright-color-1: #ffffff;
+  --bright-color-2: #ffffff;
+  --bright-color-3: #ffffff;
+  --bright-color-4: #ffffff;
+}
+
+.header {
+  display: flex;
+  line-height: 5rem;
+  font-family: 'Mrs Saint Delafield', cursive;
+  font-size: 1.5rem;
+  letter-spacing: 0.3rem;
+}
+
+body {
+  background-color: #ede6f2;
+  /* background-image: url("../images/photo-1513151233558-d860c5398176.webp"); */
+  background-size: cover;
+}
+
+h2 {
+  background-image: url('../images/18365_paint-stroke-png-removebg-preview.png');
+  color: black;
+  font-family: 'Homemade Apple', cursive;
+  font-size: 2rem;
+  letter-spacing: 1rem;
+}
+
+.container {
+  width: auto;
+  max-width: 720px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.container, .container-fluid, .container-xl, .container-lg, .container-md, .container-sm {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.circle-shape {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 40%;
+  width: auto;
+  padding-right: 40px;
+}
+
+.profile-pic {
+  /* transform: rotate(-15deg); */
+  /* margin: 0 auto; */
+  height: 200px;
+  width: auto;
+  border-radius: 20rem;
+}
+
+.threepassion {
+  font-size: 1.4rem;
+  letter-spacing: 0.3rem;
+  padding-left: 20px;
+  color: black;
+  font-family: 'Mrs Saint Delafield', cursive;
+}
+
+a {
+  color: var(--lightest-color);
+  text-decoration: none;
+}
+
+.ig-link {
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+.link-list-item {
+  border: 5px solid var(--lightest-color);
+  box-sizing: border-box;
+  margin: 20px auto;
+  color: var(--darkest-color);
+  padding: 15px;
+  text-align: center;
+  transition: all 0.15s;
+  border-radius: 15px;
+  font-weight: 900;
+  display: block;
+  font-family: 'Homemade Apple', cursive;
+}
+
+.link-list-item-img {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.highlighted, .link-list-item:hover, a:hover {
+  color: var(--highlight-color);
+  border-color: var(--highlight-color);
+  text-shadow: 0 0 2em var(--highlight-color);
+}
+
+.icon-list-img {
+  height: 50px;
+  width: 50px;
+  margin: 3px;
+}
+
+.pt-3, .py-3 {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.medium {
+  background: var(--bright-color-2);
+}
+
+.light {
+  background: var(--bright-color-3);
+}
+
+.bright {
+  background: var(--bright-color-4);
+}
+
+*, ::before, ::after {
+  box-sizing: border-box;
+}
