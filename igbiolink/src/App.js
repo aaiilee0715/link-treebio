@@ -10,15 +10,6 @@ import FeatherPix from './images/feather2-removebg-preview.png';
 function App() {
   return (
     <body>
-      <div className="circle-shape">
-        <img src={AnothayPix} className="profile-pic"
-        />
-        <div className="threepassion">
-          <h3>passion web designer</h3>
-          <h3>front-end developer</h3>
-          <h3>coffee addict</h3>
-        </div>
-      </div>
       <div className="container-fluid">
         <div className="row">
           <div className="col-12 header p-2">
@@ -33,6 +24,14 @@ function App() {
           href="https://www.instagram.com/_ann.codes"
           target="_blank"
           class="ig-link">
+      <div className="circle-shape">
+        <img src={AnothayPix} className="profile-pic"/>
+        <div className="threepassion">
+          <h3>passion web designer</h3>
+          <h3>front-end developer</h3>
+          <h3>coffee addict</h3>
+        </div>
+      </div>
         </a>
         <div className="link-list">
           <a
