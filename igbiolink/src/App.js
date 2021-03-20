@@ -2,85 +2,108 @@ import React from 'react';
 import './styles/style.css';
 
 import AnothayPix from './images/Anothay_Chansy.jpg';
-import GitHubPix from './images/GitHub-Mark-removebg-preview.png';
-import TwitterPix from './images/icon-twitter.png';
+import AdobeXd from './images/adobe-xd.png';
 import FeatherPix from './images/feather2-removebg-preview.png';
+import CanvaPix from './images/canva.png';
+import FigmaPix from './images/figmaLogo.png';
+
 
 
 function App() {
   return (
+
     <body>
       <div className="container-fluid">
         <div className="row">
           <div className="col-12 header p-2">
             <img classname="ml-2 img-fluid" src={FeatherPix} />
-            <strong className="ml-3">Design website, one pixel at a time...</strong>
+            <strong className="ml-3">Designs with you in mind, one pixel at a time...</strong>
           </div>
         </div>
       </div>
       <div className="container">
         <h2><b>Anothay Chansy</b></h2>
         <a
-          href="https://www.instagram.com/_ann.codes"
+          href="https://www.instagram.com/anothayc.design/"
           target="_blank"
           class="ig-link">
-      <div className="circle-shape">
-        <img src={AnothayPix} className="profile-pic"/>
-        <div className="threepassion">
-          <h3>passion web designer</h3>
-          <h3>front-end developer</h3>
-          <h3>coffee addict</h3>
-        </div>
-      </div>
+          <div className="circle-shape">
+            <img src={AnothayPix} className="profile-pic" />
+            <div className="threepassion">
+              <h3>passion web designer</h3>
+              <h3>front-end developer</h3>
+              <h3>coffee addict</h3>
+            </div>
+          </div>
         </a>
+        {/* project section */}
         <div className="link-list">
+          <h3 className="title">Projects</h3>
+          <div className="link-list-item bright">
+            📁  My Portfolio
+        </div>
           <a
-            href="anothayc.dev"
-            target="_blank">
-            <div className="link-list-item light">
-              ABOUT ME
-</div>
+            href="https://github.com/aaiilee0715">
+            <div className="link-list-item bright">
+              <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="20" height="20" align="absmiddle" />   GitHub
+          </div>
           </a>
+          {/* resources section */}
+          <h3 className="title">My Resources</h3>
+          <div className="link-list-item bright">
+            COMING SOON
+        </div>
+          {/* support section */}
+          <h3 className="title">Support Me</h3>
           <a
             href="https://www.buymeacoffee.com/ann.codes"
             target="_blank">
             <div className="link-list-item bright">
               ☕ Buy me a coffee
-</div>
-
+        </div>
           </a>
-          <div className="link-list-item bright">
-            📁  My Portfolio
-</div>
+          {/* Social Media section */}
+          <h3 className="title">Social</h3>
+          <a
+            href="https://www.instagram.com/anothayc.design/">
+            <div className="link-list-item bright">
+              <img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="20" height="20" align="absmiddle" />   Instagram
+          </div>
+          </a>
+          <a
+            href="https://twitter.com/_aaiilee">
+            <div className="link-list-item bright">
+              <img src="https://img.icons8.com/fluent/2x/twitter.png" width="20" height="20" align="absmiddle" />   Twitter
+          </div>
+          </a>
+          <a
+            href="https://www.linkedin.com/in/anothay-chansy-71400520a/">
+            <div className="link-list-item bright">
+              <img src="https://img.icons8.com/fluent/2x/linkedin.png" width="20" height="20" align="absmiddle" />   LinkedIn
+          </div>
+          </a>
           <a href="mailto:design@anothayc.dev">
             <div className="link-list-item light">
               💌 Contact me
-</div>
+        </div>
           </a>
         </div>
         <div className="icon-list">
-          <a
-            href="https://github.com/aaiilee0715"
-            target="_blank"
-
-          >
-            <img
-              src={GitHubPix}
-              alt="github link"
-              class="icon-list-img"
-            />
-          </a>
-          <a
-            href="https://twitter.com/_aaiilee"
-            target="_blank"
-
-          >
-            <img
-              src={TwitterPix}
-              alt="twitter link"
-              class="icon-list-img"
-            />
-          </a>
+          <img
+            src={AdobeXd}
+            alt="adobe xd"
+            class="icon-list-img"
+          />
+          <img
+            src={CanvaPix}
+            alt="canva logo"
+            class="icon-list-img"
+          />
+           <img
+            src={FigmaPix}
+            alt="figma logo"
+            class="icon-list-img"
+          />
         </div>
       </div>
 
