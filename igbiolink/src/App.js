@@ -30,9 +30,9 @@ function App() {
           <div className="circle-shape">
             <img src={AnothayPix} className="profile-pic" />
             <div className="threepassion">
-              <h3>passion web designer</h3>
-              <h3>front-end developer</h3>
-              <h3>coffee addict</h3>
+              <h3>Passion Web Designer</h3>
+              <h3>Front-end Developer</h3>
+              <h3>Coffee Addict</h3>
             </div>
           </div>
         </a>
