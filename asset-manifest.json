@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/link-treebio/static/css/main.29e6941c.chunk.css",
-    "main.js": "/link-treebio/static/js/main.298c2fb5.chunk.js",
-    "main.js.map": "/link-treebio/static/js/main.298c2fb5.chunk.js.map",
+    "main.js": "/link-treebio/static/js/main.ccae53e1.chunk.js",
+    "main.js.map": "/link-treebio/static/js/main.ccae53e1.chunk.js.map",
     "runtime-main.js": "/link-treebio/static/js/runtime-main.6f446ec0.js",
     "runtime-main.js.map": "/link-treebio/static/js/runtime-main.6f446ec0.js.map",
     "static/js/2.7d107174.chunk.js": "/link-treebio/static/js/2.7d107174.chunk.js",
@@ -14,12 +14,13 @@
     "static/js/2.7d107174.chunk.js.LICENSE.txt": "/link-treebio/static/js/2.7d107174.chunk.js.LICENSE.txt",
     "static/media/style.css": "/link-treebio/static/media/18365_paint-stroke-png-removebg-preview.2f4db189.png",
     "static/media/Anothay_Chansy.1ba9d35b.jpg": "/link-treebio/static/media/Anothay_Chansy.1ba9d35b.jpg",
-    "static/media/canva.131e87c7.png": "/link-treebio/static/media/canva.131e87c7.png"
+    "static/media/canva.131e87c7.png": "/link-treebio/static/media/canva.131e87c7.png",
+    "static/media/react.8d272661.png": "/link-treebio/static/media/react.8d272661.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6f446ec0.js",
     "static/js/2.7d107174.chunk.js",
     "static/css/main.29e6941c.chunk.css",
-    "static/js/main.298c2fb5.chunk.js"
+    "static/js/main.ccae53e1.chunk.js"
   ]
 }
