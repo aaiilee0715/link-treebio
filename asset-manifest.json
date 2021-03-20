@@ -1,25 +1,22 @@
 {
   "files": {
-    "main.css": "/link-treebio/static/css/main.78d1417c.chunk.css",
-    "main.js": "/link-treebio/static/js/main.cef4ba21.chunk.js",
-    "main.js.map": "/link-treebio/static/js/main.cef4ba21.chunk.js.map",
-    "runtime-main.js": "/link-treebio/static/js/runtime-main.aa1a4e11.js",
-    "runtime-main.js.map": "/link-treebio/static/js/runtime-main.aa1a4e11.js.map",
-    "static/js/2.73d39ee6.chunk.js": "/link-treebio/static/js/2.73d39ee6.chunk.js",
-    "static/js/2.73d39ee6.chunk.js.map": "/link-treebio/static/js/2.73d39ee6.chunk.js.map",
-    "static/js/3.b6d51b99.chunk.js": "/link-treebio/static/js/3.b6d51b99.chunk.js",
-    "static/js/3.b6d51b99.chunk.js.map": "/link-treebio/static/js/3.b6d51b99.chunk.js.map",
+    "main.css": "/link-treebio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/link-treebio/static/js/main.2ee8609f.chunk.js",
+    "main.js.map": "/link-treebio/static/js/main.2ee8609f.chunk.js.map",
+    "runtime-main.js": "/link-treebio/static/js/runtime-main.b686f463.js",
+    "runtime-main.js.map": "/link-treebio/static/js/runtime-main.b686f463.js.map",
+    "static/js/2.7bb86289.chunk.js": "/link-treebio/static/js/2.7bb86289.chunk.js",
+    "static/js/2.7bb86289.chunk.js.map": "/link-treebio/static/js/2.7bb86289.chunk.js.map",
+    "static/js/3.f0152019.chunk.js": "/link-treebio/static/js/3.f0152019.chunk.js",
+    "static/js/3.f0152019.chunk.js.map": "/link-treebio/static/js/3.f0152019.chunk.js.map",
     "index.html": "/link-treebio/index.html",
-    "static/css/main.78d1417c.chunk.css.map": "/link-treebio/static/css/main.78d1417c.chunk.css.map",
-    "static/js/2.73d39ee6.chunk.js.LICENSE.txt": "/link-treebio/static/js/2.73d39ee6.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/link-treebio/static/media/18365_paint-stroke-png-removebg-preview.2f4db189.png",
-    "static/media/Anothay_Chansy.1ba9d35b.jpg": "/link-treebio/static/media/Anothay_Chansy.1ba9d35b.jpg",
-    "static/media/GitHub-Mark-removebg-preview.fdf77acd.png": "/link-treebio/static/media/GitHub-Mark-removebg-preview.fdf77acd.png"
+    "static/css/main.6dea0f05.chunk.css.map": "/link-treebio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7bb86289.chunk.js.LICENSE.txt": "/link-treebio/static/js/2.7bb86289.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa1a4e11.js",
-    "static/js/2.73d39ee6.chunk.js",
-    "static/css/main.78d1417c.chunk.css",
-    "static/js/main.cef4ba21.chunk.js"
+    "static/js/runtime-main.b686f463.js",
+    "static/js/2.7bb86289.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2ee8609f.chunk.js"
   ]
 }
