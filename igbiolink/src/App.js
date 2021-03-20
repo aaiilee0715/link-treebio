@@ -89,6 +89,7 @@ function App() {
           </a>
         </div>
         <div className="icon-list">
+          <h3 className="designText">What I use to make the magic happen ✨</h3>
           <img
             src={AdobeXd}
             alt="adobe xd"
@@ -99,7 +100,7 @@ function App() {
             alt="canva logo"
             class="icon-list-img"
           />
-           <img
+          <img
             src={FigmaPix}
             alt="figma logo"
             class="icon-list-img"

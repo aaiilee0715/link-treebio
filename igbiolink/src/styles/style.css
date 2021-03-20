@@ -71,7 +71,9 @@ h2 {
   width: auto;
   border-radius: 20rem;
 }
-
+.designText{
+  font-family: 'Redressed', cursive;
+}
 .threepassion {
   font-size: .9rem;
   letter-spacing: 0.3rem;
