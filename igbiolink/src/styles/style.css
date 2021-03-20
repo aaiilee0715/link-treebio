@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Homemade+Apple&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
 :root {
   --darkest-color: #3b85c2;
   --lightest-color: #896e903b;
@@ -71,7 +72,7 @@ h2 {
   letter-spacing: 0.3rem;
   padding-left: 20px;
   color: black;
-  font-family: 'Mrs Saint Delafield', cursive;
+  font-family: 'Redressed', cursive;
 }
 
 a {
