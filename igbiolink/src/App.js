@@ -66,6 +66,13 @@ function App() {
               <img src="https://img.icons8.com/ultraviolet/2x/react.png" width="20" height="20" align="absmiddle" />   How To Create-React-App
           </div>
           </a>
+          <a
+            href="https://www.notion.so/Angular-Setting-up-the-local-environment-and-workspace-76b9c7f55d88462c8f0fa55b37b4adac"
+            target="_blank">
+            <div className="link-list-item bright">
+              <img src="//img.icons8.com/color/2x/angularjs.png" width="20" height="20" align="absmiddle" />   How To Install Angular CLI
+          </div>
+          </a>
           {/* support section */}
           <h3 className="title">Support Me</h3>
           <a
