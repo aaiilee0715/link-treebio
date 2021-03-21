@@ -43,7 +43,7 @@ function App() {
         <div className="link-list">
           <h3 className="title">Projects</h3>
           <div className="link-list-item bright">
-            📁  My Portfolio
+            📁  My Portfolio (UNDER CONSTRUCTION)
         </div>
           <a
             href="https://github.com/aaiilee0715">
@@ -71,6 +71,13 @@ function App() {
             target="_blank">
             <div className="link-list-item bright">
               <img src="//img.icons8.com/color/2x/angularjs.png" width="20" height="20" align="absmiddle" />   How To Install Angular CLI
+          </div>
+          </a>
+          <a
+            href="https://www.notion.so/Emoji-Cheat-Sheet-For-HTML-02292dde397d401b912eab7edc6f8fb1"
+            target="_blank">
+            <div className="link-list-item bright">
+              <img src="https://img.icons8.com/plasticine/2x/happy.png" width="20" height="20" align="absmiddle" />   Emoji-Cheat-Sheet For HTML
           </div>
           </a>
           {/* support section */}
