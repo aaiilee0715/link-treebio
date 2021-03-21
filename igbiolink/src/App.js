@@ -59,9 +59,13 @@ function App() {
               <img src={CodestackPix} width="20" height="20" align="absmiddle" />   CodeStack Academy
           </div>
           </a>
-        <div className="link-list-item bright">
-            COMING SOON
-        </div>
+          <a
+            href="https://www.notion.so/How-to-create-a-new-React-App-be9a58b59a3f47379e3d53711f78fcdf"
+            target="_blank">
+            <div className="link-list-item bright">
+              <img src="https://img.icons8.com/ultraviolet/2x/react.png" width="20" height="20" align="absmiddle" />   How To Create-React-App
+          </div>
+          </a>
           {/* support section */}
           <h3 className="title">Support Me</h3>
           <a
