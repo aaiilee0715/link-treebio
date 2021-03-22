@@ -46,7 +46,8 @@ function App() {
             📁  My Portfolio (UNDER CONSTRUCTION)
         </div>
           <a
-            href="https://github.com/aaiilee0715">
+            href="https://github.com/aaiilee0715"
+            target="_blank">
             <div className="link-list-item bright">
               <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="20" height="20" align="absmiddle" />   GitHub
           </div>
