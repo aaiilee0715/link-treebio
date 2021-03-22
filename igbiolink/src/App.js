@@ -55,7 +55,8 @@ function App() {
           {/* resources section */}
           <h3 className="title">My Resources</h3>
           <a
-            href="https://codestackacademy.org/home">
+            href="https://codestackacademy.org/home"
+            target="_blank">
             <div className="link-list-item bright">
               <img src={CodestackPix} width="20" height="20" align="absmiddle" />   CodeStack Academy
           </div>
@@ -93,19 +94,22 @@ function App() {
           {/* Social Media section */}
           <h3 className="title">Social</h3>
           <a
-            href="https://www.instagram.com/anothayc.design/">
+            href="https://www.instagram.com/anothayc.design/"
+            target="_blank">
             <div className="link-list-item bright">
               <img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="20" height="20" align="absmiddle" />   Instagram
           </div>
           </a>
           <a
-            href="https://twitter.com/_aaiilee">
+            href="https://twitter.com/_aaiilee"
+            target="_blank">
             <div className="link-list-item bright">
               <img src="https://img.icons8.com/fluent/2x/twitter.png" width="20" height="20" align="absmiddle" />   Twitter
           </div>
           </a>
           <a
-            href="https://www.linkedin.com/in/anothay-chansy-71400520a/">
+            href="https://www.linkedin.com/in/anothay-chansy-71400520a/"
+            target="_blank">
             <div className="link-list-item bright">
               <img src="https://img.icons8.com/fluent/2x/linkedin.png" width="20" height="20" align="absmiddle" />   LinkedIn
           </div>
