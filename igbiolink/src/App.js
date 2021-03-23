@@ -114,6 +114,8 @@ function App() {
               <img src="https://img.icons8.com/fluent/2x/linkedin.png" width="20" height="20" align="absmiddle" />   LinkedIn
           </div>
           </a>
+          {/* Business Inquires section */}
+          <h3 className="title">Business Inquires</h3>
           <a href="mailto:design@anothayc.dev">
             <div className="link-list-item light">
               💌 Contact me
