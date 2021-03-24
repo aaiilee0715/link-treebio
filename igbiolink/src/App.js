@@ -134,11 +134,11 @@ function App() {
             alt="canva logo"
             class="icon-list-img"
           /> */}
-          <img
+          {/* <img
             src={FigmaPix}
             alt="figma logo"
             class="icon-list-img"
-          />
+          /> */}
              {/* <img
             src={JavascriptLogo}
             alt="javascript logo"
@@ -149,11 +149,11 @@ function App() {
             alt="react logo"
             class="icon-list-img"
           />
-           <img
+           {/* <img
             src={AngularLogo}
             alt="angular logo"
             class="icon-list-img"
-          />
+          /> */}
         </div>
       </div>
 
