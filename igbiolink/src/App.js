@@ -33,7 +33,7 @@ function App() {
           <div className="circle-shape">
             <img src={AnothayPix} className="profile-pic" />
             <div className="threepassion">
-              <h3>Passion Web Designer</h3>
+              <h3>UI/UX Specialist</h3>
               <h3>Front-end Developer</h3>
               <h3>Coffee Addict</h3>
             </div>
