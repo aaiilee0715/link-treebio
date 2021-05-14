@@ -4,12 +4,12 @@ import './styles/style.css';
 import AnothayPix from './images/Anothay_Chansy.jpg';
 import AdobeXd from './images/adobe-xd.png';
 import FeatherPix from './images/feather2-removebg-preview.png';
-import CanvaPix from './images/canva.png';
-import FigmaPix from './images/figmaLogo.png';
 import CodestackPix from './images/codestack.jpg';
 import ReactLogo from './images/react.png';
-import AngularLogo from './images/angularjs.png';
-import JavascriptLogo from './images/javascript.png';
+// import CanvaPix from './images/canva.png';
+// import FigmaPix from './images/figmaLogo.png';
+// import AngularLogo from './images/angularjs.png';
+// import JavascriptLogo from './images/javascript.png';
 
 
 function App() {
@@ -20,7 +20,7 @@ function App() {
         <div className="row">
           <div className="col-12 header p-2">
             <img classname="ml-2 img-fluid" src={FeatherPix} />
-            <strong className="ml-3">Design with you in mind, one pixel at a time...</strong>
+            <strong className="ml-3">RESEARCH. DESIGN. DEVELOP</strong>
           </div>
         </div>
       </div>
