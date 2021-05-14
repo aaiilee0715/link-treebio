@@ -42,9 +42,13 @@ function App() {
         {/* project section */}
         <div className="link-list">
           <h3 className="title">Projects</h3>
-          <div className="link-list-item bright">
-            📁  My Portfolio (UNDER CONSTRUCTION)
-        </div>
+          <a
+            href="https://www.anothaychansy.com/"
+            target="_blank">
+            <div className="link-list-item bright">
+            📁  My Portfolio
+          </div>
+          </a>
           <a
             href="https://github.com/aaiilee0715"
             target="_blank">
@@ -139,7 +143,7 @@ function App() {
             alt="figma logo"
             class="icon-list-img"
           /> */}
-             {/* <img
+          {/* <img
             src={JavascriptLogo}
             alt="javascript logo"
             class="icon-list-img"
@@ -149,7 +153,7 @@ function App() {
             alt="react logo"
             class="icon-list-img"
           />
-           {/* <img
+          {/* <img
             src={AngularLogo}
             alt="angular logo"
             class="icon-list-img"
